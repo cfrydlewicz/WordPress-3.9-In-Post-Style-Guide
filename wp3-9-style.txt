@@ -1,13 +1,16 @@
-<h1>WordPress Style Guide (3.9)</h1>
-<p>This post is a WordPress Style Guide for v3.9. I use these privately to work on Themes all the time, but I thought others might want to use it too.</p>
-<strong>Disclaimer:</strong> Depending on when you're viewing this, my site'sÂ current theme may not support some of the functions I'm testing with this. If it doesn't look right, rest assured I'm working on it!
+This post is a WordPress Style Guide for v3.9. I use these privately to work on Themes all the time, but I thought others might want to use it too.
+
+<strong>Disclaimer:</strong> Depending on when you're viewing this, my site's current theme may not support some of the functions I'm testing with this. If it doesn't look right, rest assured I'm working on it!
 <h1>H1 Header: The Headiest Header</h1>
-<p>I only use H1's for the Post Title generally, but I still like to see it out of context for reference.</p>
-<p>Paragraph text looks like this. I wonder what happens <strong>when I bold stuff</strong>. <del>That's interesting</del>. Perhaps I should see <a title="Back to CorryArt.com Homepage" href="http://corryart.com">what links would look like</a>. That's not <em>too</em> shabby.</p>
+I only use H1's for the Post Title generally, but I still like to see it out of context for reference.
+
+Paragraph text looks like this. I wonder what happens <strong>when I bold stuff</strong>. <del>That's interesting</del>. Perhaps I should see <a title="Back to Homepage" href="http://corryfrydlewicz.com">what links would look like</a>. That's not <em>too</em> shabby.
+
 <hr />
-<p>I don't think I've ever used horizontal rules in a post on this site, but I may as well make them look decent.</p>
+
+I don't think I've ever used horizontal rules in a post on this site, but I may as well make them look decent.
 <h2>H2 Header: The Most Common Header I Use</h2>
-<p>I'm trying to writeÂ as little HTML as possible when I write posts in WordPress. My control freak nature means I will probably still edit in HTML mode fairly often, but I'm trying to keep it to a minimum so I can stay in touch with how non-coders use WordPress and other CMSes.</p>
+I'm trying to write as little HTML as possible when I write posts in WordPress. My control freak nature means I will probably still edit in HTML mode fairly often, but I'm trying to keep it to a minimum so I can stay in touch with how non-coders use WordPress and other CMSes.
 <ul>
 	<li>Unordered lists are pretty common, especially on websites that are trying to sell things.</li>
 	<li>I use them a lot because they're easy to 'digest' quickly.
@@ -18,10 +21,10 @@
 </li>
 	<li>They also break up long blocks of text nicely when you don't have a graphic or other media element to do that for you.</li>
 </ul>
-<h3>H3 Header: Because Some PostsÂ Go Really In-Depth and Need Hierarchical Structure in their Headers</h3>
-<p>I try not to make my posts so complicated that I need to use H3s, but it happens.</p>
+<h3>H3 Header: Because Some Posts Go Really In-Depth and Need Hierarchical Structure in their Headers</h3>
+I try not to make my posts so complicated that I need to use H3s, but it happens.
 <ol>
-	<li>I only use Ordered ListsÂ if I'm explaining steps in a process or giving a particular number of reasons for something.</li>
+	<li>I only use Ordered Lists if I'm explaining steps in a process or giving a particular number of reasons for something.</li>
 	<li>If I'm using it to list reasons, I'm probably really excited about how many justifications I can make for my viewpoint.</li>
 	<li>If I'm using it for a process, and it goes into sub-lists:
 <ol>
@@ -33,28 +36,32 @@
 	<li>???</li>
 	<li>Profit</li>
 </ol>
-<h2>Fun With Alignment</h2>
-[caption id="attachment_2422" align="alignright" width="300"]<a href="http://localhost/corryart/wp-content/uploads/2014/04/conspiracy-901.png"><img class="size-medium wp-image-2422" src="http://localhost/corryart/wp-content/uploads/2014/04/conspiracy-901-300x294.png" alt="XKCD Comic" width="300" height="294" /></a> This is a Caption for this image. Filler textÂ is pretty easy to write if you just keep typing and stop thinking.[/caption]
-<p>I use a script similar to <a title="Lightbox" href="http://lokeshdhakar.com/projects/lightbox2/" target="_blank">lightbox</a> for image "zooming" here. If the image is centered or has no styling, I let it take up the fullÂ width of the content area. If its justified left or right, I have it set to max-width with a percentage or pixel amount depending on the theme. Because of this, I set all my images to appear "Full Size" and not to link to anything in WordPress's image settings.</p>
-<p>Bacon ipsum dolor sit amet ham hock jerky hamburger kielbasa. Pork chop jerky pig turducken pork belly, strip steak t-bone fatback brisket ball tip doner corned beef kielbasa short loin. Pancetta chicken tongue salami jowl tail landjaeger capicola bacon frankfurter shoulder cow. Ground round kielbasa shoulder, beef ribs short ribs spare ribs beef. Meatball doner leberkas, pork belly chuck shank pig pork chop short loin pastrami kevin. Strip steak turducken shank pork ham hock kielbasa. Meatloaf ball tip kevin biltong flank pork loin tri-tip bresaola t-bone chicken capicola fatback leberkas venison.</p>
-[caption id="attachment_2423" align="aligncenter" width="719"]<a href="http://localhost/corryart/wp-content/uploads/2014/04/cute-902.png"><img class="size-full wp-image-2423" src="http://localhost/corryart/wp-content/uploads/2014/04/cute-902.png" alt="Drunk Puppy" width="719" height="483" /></a> This is what some of our friends look like on Friday nights. Soju and everything.[/caption]
-<p>Ball tip jerky ham hock andouille, rump salami landjaeger pork kevin bacon sausage turducken doner meatloaf. Pastrami short ribs drumstick chicken. Strip steak spare ribs ham hock leberkas landjaeger ribeye. Salami shank tenderloin jowl meatball. Strip steak ground round beef pork loin jowl shoulder chicken turducken, tongue brisket short ribs ham hock turkey. Ball tip corned beef salami, porchetta strip steak venison shoulder kielbasa beef tri-tip drumstick bacon tail fatback pork belly.</p>
-[caption id="attachment_2424" align="alignleft" width="225"]<a href="http://localhost/corryart/wp-content/uploads/2014/04/cute-903.jpg"><img class="size-medium wp-image-2424" src="http://localhost/corryart/wp-content/uploads/2014/04/cute-903-225x300.jpg" alt="Cute Puppy" width="225" height="300" /></a> And this is my idea of a perfect Sunday... except replace the Coors Light with a legit beer.[/caption]
-<p>Beef ribs ribeye meatloaf salami spare ribs drumstick tail beef. Pork belly biltong filet mignon ball tip ground round beef ribs chicken andouille capicola ham hock meatloaf hamburger flank jerky. Turducken jerky pork tri-tip swine andouille ribeye pork belly strip steak capicola. Tenderloin sirloin kevin meatloaf cow turducken tongue drumstick frankfurter sausage porchetta. Ball tip meatloaf ham tail short loin. Chicken short ribs bresaola cow, filet mignon tenderloin doner prosciutto landjaeger capicola salami shoulder beef ribs. Jowl biltong beef porchetta chicken.</p>
+<h2>Fun With Image Alignment</h2>
+[caption id="attachment_2428" align="alignright" width="363"]<a href="http://corryfrydlewicz.com/wp-content/uploads/2014/04/conspiracy-901.png"><img class="wp-image-2428 size-full" src="http://corryfrydlewicz.com/wp-content/uploads/2014/04/conspiracy-901.png" alt="XKCD 9/11 Truthers" width="363" height="356" /></a> This is a Caption for this image. Filler text is pretty easy to write if you just keep typing and stop thinking.[/caption]
+
+I use a plugin called <a title="Simple Lightbox WordPress Plugin" href="https://wordpress.org/plugins/simple-lightbox/" target="_blank">Simple Lightbox</a> for image "zooming" here. If the image is centered or has no styling, I let it take up the full width of the content area. If its justified left or right, I have it set to max-width with a percentage or pixel amount depending on the theme.
+
+Bacon ipsum dolor sit amet ham hock jerky hamburger kielbasa. Pork chop jerky pig turducken pork belly, strip steak t-bone fatback brisket ball tip doner corned beef kielbasa short loin. Pancetta chicken tongue salami jowl tail landjaeger capicola bacon frankfurter shoulder cow. Ground round kielbasa shoulder, beef ribs short ribs spare ribs beef. Meatball doner leberkas, pork belly chuck shank pig pork chop short loin pastrami kevin. Strip steak turducken shank pork ham hock kielbasa. Meatloaf ball tip kevin biltong flank pork loin tri-tip bresaola t-bone chicken capicola fatback leberkas venison.
+
+[caption id="attachment_2429" align="aligncenter" width="719"]<a href="http://corryfrydlewicz.com/wp-content/uploads/2014/04/cute-902.png"><img class="wp-image-2429 size-full" src="http://corryfrydlewicz.com/wp-content/uploads/2014/04/cute-902.png" alt="Adorable Hangover" width="719" height="483" /></a> This is what some of our friends look like on Friday nights. Soju and everything.[/caption]
+
+Ball tip jerky ham hock andouille, rump salami landjaeger pork kevin bacon sausage turducken doner meatloaf. Pastrami short ribs drumstick chicken. Strip steak spare ribs ham hock leberkas landjaeger ribeye. Salami shank tenderloin jowl meatball. Strip steak ground round beef pork loin jowl shoulder chicken turducken, tongue brisket short ribs ham hock turkey. Ball tip corned beef salami, porchetta strip steak venison shoulder kielbasa beef tri-tip drumstick bacon tail fatback pork belly.
+
+[caption id="attachment_2430" align="alignleft" width="453"]<a href="http://corryfrydlewicz.com/wp-content/uploads/2014/04/cute-903.jpg"><img class="wp-image-2430 size-full" src="http://corryfrydlewicz.com/wp-content/uploads/2014/04/cute-903.jpg" alt="My perfect Sunday" width="453" height="604" /></a> And this is my idea of a perfect Sunday... except replace the Coors Light with a legit beer.[/caption]
+
+Beef ribs ribeye meatloaf salami spare ribs drumstick tail beef. Pork belly biltong filet mignon ball tip ground round beef ribs chicken andouille capicola ham hock meatloaf hamburger flank jerky. Turducken jerky pork tri-tip swine andouille ribeye pork belly strip steak capicola. Tenderloin sirloin kevin meatloaf cow turducken tongue drumstick frankfurter sausage porchetta. Ball tip meatloaf ham tail short loin. Chicken short ribs bresaola cow, filet mignon tenderloin doner prosciutto landjaeger capicola salami shoulder beef ribs. Jowl biltong beef porchetta chicken.
 <h3>Now, Without Captions</h3>
-<a href="http://corryart.com/wp-content/uploads/conspiracy-901.png"><img class="alignright size-thumbnail wp-image-2428" src="http://corryart.com/wp-content/uploads/conspiracy-901-200x196.png" alt="XKCD 9/11 Truthers" width="200" height="196" /></a>
-<p>Bacon ipsum dolor sit amet ham hock jerky hamburger kielbasa. Pork chop jerky pig turducken pork belly, strip steak t-bone fatback brisket ball tip doner corned beef kielbasa short loin. Pancetta chicken tongue salami jowl tail landjaeger capicola bacon frankfurter shoulder cow. Ground round kielbasa shoulder, beef ribs short ribs spare ribs beef. Meatball doner leberkas, pork belly chuck shank pig pork chop short loin pastrami kevin. Strip steak turducken shank pork ham hock kielbasa. Meatloaf ball tip kevin biltong flank pork loin tri-tip bresaola t-bone chicken capicola fatback leberkas venison.</p>
-<a href="http://corryart.com/wp-content/uploads/cute-902.png"><img class="aligncenter size-full wp-image-2429" src="http://corryart.com/wp-content/uploads/cute-902.png" alt="Adorable Hangover" width="719" height="483" /></a>
-<p>Ball tip jerky ham hock andouille, rump salami landjaeger pork kevin bacon sausage turducken doner meatloaf. Pastrami short ribs drumstick chicken. Strip steak spare ribs ham hock leberkas landjaeger ribeye. Salami shank tenderloin jowl meatball. Strip steak ground round beef pork loin jowl shoulder chicken turducken, tongue brisket short ribs ham hock turkey. Ball tip corned beef salami, porchetta strip steak venison shoulder kielbasa beef tri-tip drumstick bacon tail fatback pork belly.</p>
-<a href="http://corryart.com/wp-content/uploads/cute-903.jpg"><img class="alignleft size-medium wp-image-2430" src="http://corryart.com/wp-content/uploads/cute-903-360x480.jpg" alt="My perfect Sunday" width="360" height="480" /></a>
-<p>Beef ribs ribeye meatloaf salami spare ribs drumstick tail beef. Pork belly biltong filet mignon ball tip ground round beef ribs chicken andouille capicola ham hock meatloaf hamburger flank jerky. Turducken jerky pork tri-tip swine andouille ribeye pork belly strip steak capicola. Tenderloin sirloin kevin meatloaf cow turducken tongue drumstick frankfurter sausage porchetta. Ball tip meatloaf ham tail short loin. Chicken short ribs bresaola cow, filet mignon tenderloin doner prosciutto landjaeger capicola salami shoulder beef ribs. Jowl biltong beef porchetta chicken.</p>
+<a href="http://corryfrydlewicz.com/wp-content/uploads/2014/04/conspiracy-901.png"><img class="alignright wp-image-2428 size-full" src="http://corryfrydlewicz.com/wp-content/uploads/2014/04/conspiracy-901.png" alt="XKCD 9/11 Truthers" width="363" height="356" /></a>Bacon ipsum dolor sit amet ham hock jerky hamburger kielbasa. Pork chop jerky pig turducken pork belly, strip steak t-bone fatback brisket ball tip doner corned beef kielbasa short loin. Pancetta chicken tongue salami jowl tail landjaeger capicola bacon frankfurter shoulder cow. Ground round kielbasa shoulder, beef ribs short ribs spare ribs beef. Meatball doner leberkas, pork belly chuck shank pig pork chop short loin pastrami kevin. Strip steak turducken shank pork ham hock kielbasa. Meatloaf ball tip kevin biltong flank pork loin tri-tip bresaola t-bone chicken capicola fatback leberkas venison.
+
+<a href="http://corryfrydlewicz.com/wp-content/uploads/2014/04/cute-902.png"><img class="aligncenter wp-image-2429 size-full" src="http://corryfrydlewicz.com/wp-content/uploads/2014/04/cute-902.png" alt="Adorable Hangover" width="719" height="483" /></a>Ball tip jerky ham hock andouille, rump salami landjaeger pork kevin bacon sausage turducken doner meatloaf. Pastrami short ribs drumstick chicken. Strip steak spare ribs ham hock leberkas landjaeger ribeye. Salami shank tenderloin jowl meatball. Strip steak ground round beef pork loin jowl shoulder chicken turducken, tongue brisket short ribs ham hock turkey. Ball tip corned beef salami, porchetta strip steak venison shoulder kielbasa beef tri-tip drumstick bacon tail fatback pork belly.
+
+<a href="http://corryfrydlewicz.com/wp-content/uploads/2014/04/cute-903.jpg"><img class="alignleft wp-image-2430 size-full" src="http://corryfrydlewicz.com/wp-content/uploads/2014/04/cute-903.jpg" alt="My perfect Sunday" width="453" height="604" /></a>Beef ribs ribeye meatloaf salami spare ribs drumstick tail beef. Pork belly biltong filet mignon ball tip ground round beef ribs chicken andouille capicola ham hock meatloaf hamburger flank jerky. Turducken jerky pork tri-tip swine andouille ribeye pork belly strip steak capicola. Tenderloin sirloin kevin meatloaf cow turducken tongue drumstick frankfurter sausage porchetta. Ball tip meatloaf ham tail short loin. Chicken short ribs bresaola cow, filet mignon tenderloin doner prosciutto landjaeger capicola salami shoulder beef ribs. Jowl biltong beef porchetta chicken.
 <h2>Quotes</h2>
-<p>I used to code my own Quote styling into each post, which was really annoying. Luckily WordPress has improved vastly since then and I should adjust my posts to suit this progress.</p>
-<blockquote>This is how quotes look. I wanted to make it so I could cite a source for my quotes without going into the code tab and adding in &lt;cite&gt; manually.
-<del>I guess <a href="http://corryart.com">this</a> will have to do.</del></blockquote>
-<p>Using a soft return (Shift+Enter) and theÂ <del>strikethrough</del> style button will have to do for now. I will have my theme look for that tag and replace it with &lt;cite&gt; on page load using AJAX. I chose &lt;del&gt;Â because it's <strong>highly</strong>Â unlikely I'll ever want to use it for a citation. It's not elegant, but it solves my usability issue.</p>
+I used to code my own Quote styling into each post, which was really annoying. Luckily WordPress has improved vastly since then and I should adjust my posts to suit this progress.
+<blockquote>This is how quotes look. I wanted to make it so I could cite a source for my quotes without going into the code tab and adding in &lt;cite&gt; manually. <cite>Sadly, I'll still have to go in and code that <a href="#">for now</a></cite></blockquote>
+Using a soft return (Shift+Enter) and the <del>strikethrough</del> style button will have to do for now. I will have my theme look for that tag and replace it with &lt;cite&gt; on page load using AJAX. I chose &lt;del&gt; because it's <strong>highly</strong> unlikely I'll ever want to use it for a citation. It's not elegant, but it solves my usability issue.
 <h2>Tables</h2>
-<p>I don'tÂ always use tables, but when I do it's for data. I want my tables to look when they have 3+Â columns because I probably shouldn't be using a table if I only have 2 columns worth of information. Sadly, there is no table button in the WordPress WYSIWYG editor, so we need to code them.</p>
+I don't always use tables, but when I do it's for data. I want my tables to look when they have 3+ columns because I probably shouldn't be using a table if I only have 2 columns worth of information. Sadly, there is no table button in the WordPress WYSIWYG editor, so we need to code them.
 <table>
 <thead>
 <tr>
@@ -102,7 +109,7 @@
 </tr>
 </tfoot>
 </table>
-<p>Now, bigger tables are going to be kind of ugly no matter what I do, so lets make sure they're readable at least.</p>
+Now, bigger tables are going to be kind of ugly no matter what I do, so lets make sure they're readable at least.
 <table>
 <thead>
 <tr>
@@ -175,5 +182,6 @@
 </tfoot>
 </table>
 <h2>WordPress Style Guides Are Awesome!</h2>
-<p>Hopefully this post was useful for you, because it helps me out when I'm doing this stuff. If you have any suggestions, feel free to leave them as comments!</p>
-<p>You can get the source codeÂ of this post here (.html file). Just open it in a text editor, copy all of it, then paste it into the "Text" (not "Visual") tab of a new post on your own WordPress site.</p>
+Hopefully this post was useful for you, because it helps me out when I'm doing this stuff. If you have any suggestions, feel free to leave them as comments!
+
+You can get the source code of this post <a title="WordPress Style Guide as a TXT File" href="http://corryfrydlewicz.com/uploaded/wp3-9-style.txt" target="_blank">here</a> (.txt file). Just open it in a text editor, copy all of it, then paste it into the "Text" (not "Visual") tab of a new post on your own WordPress site.
